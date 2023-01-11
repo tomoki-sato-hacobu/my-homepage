@@ -1,0 +1,9 @@
+{
+  "aphorisms": [
+    { "id": 1, "aphorism": "A", "author": "a" },
+    { "id": 2, "aphorism": "B", "author": "b" },
+    { "id": 3, "aphorism": "C", "author": "c" },
+    { "id": 4, "aphorism": "D", "author": "d" },
+    { "id": 5, "aphorism": "E", "author": "e" }
+  ]
+}
