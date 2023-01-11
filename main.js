@@ -9,3 +9,4 @@ const aphorisms = ["a", "i", "u", "e", "o"];
 pager.addEventListener("click", () => {
   aphorism.innerHTML = getAphorism(aphorisms);
 });
+
